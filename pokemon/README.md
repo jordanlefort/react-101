@@ -19,5 +19,5 @@
   - a button and input (number between 1 - 898); 
   - when our submit form (onSubmit) add a new Pokémon to the list.
 
-![Demo](./pokemon-demo.gif)Minimalist Pokedex
+![Demo](./demo-pokemon.gif)Minimalist Pokedex
 
