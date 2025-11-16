@@ -15,7 +15,9 @@
 
 - Display two random Pokémon on page load.
 
-- Add a button; on click, add a new Pokémon to the list.
+- Add a from with :
+  - a button and input (number between 1 - 898); 
+  - when our submit form (onSubmit) add a new Pokémon to the list.
 
 ![Demo](./pokemon-demo.gif)Minimalist Pokedex
 
