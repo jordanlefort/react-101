@@ -9,7 +9,7 @@
 
 - Create a minimalist Pokedex.
 
-- Use fetchRandomPokemon to get Pokémon data.
+- Use fetchRandomPokemon or fetchSpecificPokemon to get Pokémon data. 
 
 - Rules:
 
